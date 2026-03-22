@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>STARRIDE | Extreme Energy</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <nav>
+        <!-- Replace 'logo.png' with your actual logo file name later -->
+        <div class="logo">STARRIDE</div> 
+        <ul class="nav-links">
+            <li><a href="#about">The Mission</a></li>
+            <li><a href="#shop">Get Fueled</a></li>
+        </ul>
+    </nav>
+
+    <header class="hero">
+        <div class="hero-content">
+            <h1 class="glitch-text">RIDE THE <span class="highlight">STARS</span></h1>
+            <p>High-altitude energy for high-impact athletes.</p>
+            <button class="cta-button">ORDER NOW</button>
+        </div>
+        
+        <div class="product-display">
+            <!-- This is where your can design goes -->
+            <img src="images/can-design.png" alt="Starride Can" class="floating-can">
+        </div>
+    </header>
+
+</body>
+</html>
